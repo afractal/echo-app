@@ -1,5 +1,5 @@
 {
-  "name": "twittertron-app",
+  "name": "echo-app",
   "version": "1.0.0",
   "author": "afractal",
   "description": "",
@@ -11,7 +11,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@types/browser-sync": "^2.26.1",
-    "browser-sync": "^2.26.14"
+    "@types/browser-sync": "^2.26.2",
+    "browser-sync": "^2.27.5"
   }
 }
