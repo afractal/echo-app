@@ -240,6 +240,7 @@ hr {
   flex-flow: column nowrap;
   align-items: center;
   justify-content: center;
+  text-align: center;
 }
 
 /* ---DOWNLOADS--- */
@@ -335,4 +336,13 @@ hr {
   font-size: smaller;
   color: white;
   fill: white;
+}
+
+.canvas {
+  /* height: x40em;
+  width: 40em; */
+  margin: 2em;
+  background-color: black;
+  border: 4px solid lightgray;
+  outline: 8px solid gray;
 }
