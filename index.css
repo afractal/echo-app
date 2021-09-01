@@ -182,7 +182,7 @@ hr {
 /* ---HERO_TITLE--- */
 
 .hero__title {
-  height: 4%;
+  height: 10%;
   width: 100%;
   display: inline-flex;
   flex-flow: row nowrap;
@@ -196,7 +196,7 @@ hr {
 /* ---SCREENSHOTS--- */
 
 .screenshots__container {
-  height: 40%;
+  height: 45%;
   width: 100%;
   display: inline-flex;
   flex-flow: column nowrap;
@@ -210,12 +210,13 @@ hr {
 }
 
 .screenshots {
+  height: 100%;
   margin: 0;
   padding: 0;
 }
 
 .screenshot {
-  height: 100%;
+  height: 98%;
   object-fit: contain;
   object-position: center;
   animation: zoomin 1s forwards;
@@ -227,7 +228,7 @@ hr {
 .hero__container {
   /* margin-top: 2em; */
   width: 100%;
-  height: 40%;
+  height: 45%;
   display: inline-flex;
   flex-flow: column nowrap;
   align-items: center;
@@ -235,7 +236,7 @@ hr {
 }
 
 .hero__description {
-  width: 21%;
+  width: 60%;
   display: inline-flex;
   flex-flow: column nowrap;
   align-items: center;
@@ -246,7 +247,7 @@ hr {
 /* ---DOWNLOADS--- */
 
 .hero_composite {
-  margin-top: 2em;
+  /* margin-top: 2em; */
   display: inline-flex;
   flex-flow: column nowrap;
   align-items: center;
