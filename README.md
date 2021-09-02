@@ -5,22 +5,23 @@
 </p>
 
 <div class="image_wrapper">
-
-![demo](./hero_screenshot.png#thumbnail)
-
+    <img src="./hero_screenshot.png">
 </div>
 
 <style>
     .image_wrapper {
-        display:inline-flex;
-        flex-flow: row nowrap;
+        display: inline-flex;
+        flex-wrap: nowrap;
+        flex-direction: row;
+        align-content: center;
+        justify-content: center;
         align-items: center;
-        justify-items: center;
-   }
+    }
 
-    img[src*="#thumbnail"] {
-        width:150px;
-        height:100px;
+    img {
+        width:100%;
+        height:100%;
+        object-fit:contain;
     }
 </style>
 
