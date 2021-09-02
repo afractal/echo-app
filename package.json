@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "afractal",
   "description": "",
-  "license": "MIT",
+  "license": "./LICENSE.md",
   "private": true,
   "main": "app.js",
   "scripts": {
