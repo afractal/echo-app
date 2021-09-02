@@ -11,17 +11,12 @@
 
 Currently, only Windows is supported.
 
-## **Changes**
 
 _v1.0_
 
-- add multiple themes capability
-- embed tweets
-- add tweet photo viewer
-- handle outside click for header actions
-- handle error case for apis
-- fix application development issue
--
+- v1 ui design
+- add indicator + animation
+- stability and performance improvements
 
 ## **License**
 
