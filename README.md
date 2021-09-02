@@ -4,9 +4,7 @@
     <p align="center">Echo desktop app.</p>
 </p>
 
-<div class="image_wrapper">
-    <img src="./hero_screenshot.png">
-</div>
+<img width="840" src="./hero_screenshot.png">
 
 
 ## **Download**
@@ -34,24 +32,3 @@ This product is licensed under the [GPL-3.0](./LICENSE.md) license.
 <p align="center">
     Made with :heart: by <a href="https://github.com/afractal">@afractal</a>
 </p>
-
-
-
-
-
-<style>
-    .image_wrapper {
-        display: inline-flex;
-        flex-wrap: nowrap;
-        flex-direction: row;
-        align-content: center;
-        justify-content: center;
-        align-items: center;
-    }
-
-    img {
-        width:100%;
-        height:100%;
-        object-fit:contain;
-    }
-</style>
